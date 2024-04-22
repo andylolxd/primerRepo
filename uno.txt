@@ -1,1 +1,2 @@
 Hola estoy usando git y github
+Creamos carpeta Dos y dentro de ella un archivo txt nombrado dos
